@@ -22,7 +22,7 @@ Mic2img also allows you to start a server and display images in another browser 
 
 If you get a 403 Forbidden message when trying to open the server window, please try copying the notebook to your own drive.
 
-This notebook requires high ram. Ideally we a A100 or V100. Other GPUs may lead to issues.
+In Google Colab plus pro, This notebook requires high ram. Ideally we a A100 or V100. Other GPUs may lead to issues. In this case you should use the lite version that uses API keys.
 
 ---------------------------------
 
