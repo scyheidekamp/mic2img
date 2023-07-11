@@ -7,6 +7,10 @@ When you have a Google Colab pro plus subscription, use this:
 When you don't have Colab plus pro but you have OpenAI & StabilityAI API keys, use this:
 [![mic2image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e4f5-Up54ySiFsWvKiPyZrJNnJcWmjfl?usp=sharing)
 
+The heavy version you can now also use with img2img:
+[![mic2image](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1e4f5-Up54ySiFsWvKiPyZrJNnJcWmjfl?usp=sharing](https://colab.research.google.com/drive/1zapwwj-p8oYz-p6yqfZOhAArcS2vn9Mi))
+
+
 
 With audio-recording and transcription through the browser, auto-translation, and emotion analysis features, Mic2img is perfect for co-creation sessions, brainstorming, or reflecting on ideas. By turning it on parallel to a human converstion, and allowing the AI to influence your conversations, it becomes an ideal tool for human/AI co-creation and looking at topics from different perspectives.
 
